@@ -1,0 +1,10 @@
+//用来演示的
+{
+  "presets": [
+    "env"
+  ],
+  "plugins": [
+    //转换vue 里面的jsx 代码
+    "transform-vue-jsx"
+  ]
+}
